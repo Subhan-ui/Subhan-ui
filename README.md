@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhan Shoukat</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://subhan-portfolio-1908.web.app/](https://subhan-portfolio-1908.web.app/)
 
